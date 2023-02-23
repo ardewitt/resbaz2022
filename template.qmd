@@ -15,8 +15,6 @@ format:
 theme:
   light: flatly
   dark: darkly
-
-# can specify document-level specs for code blocks
 ---
 
 <!--
